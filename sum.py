@@ -1,5 +1,5 @@
 ''' 
-a=30
+a=50
 b=30
 c=a+b
 print("sum of two integers" ,c)
@@ -32,4 +32,5 @@ a=float(input("enter a val"))
 b=float(input("enter b val"))
 c=a+b
 print ("sum of two val is =",c)
+
 
